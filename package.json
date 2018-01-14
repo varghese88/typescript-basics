@@ -1,0 +1,23 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varghese88/typescript-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varghese88/typescript-basics/issues"
+  },
+  "homepage": "https://github.com/varghese88/typescript-basics#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
